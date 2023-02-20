@@ -4,6 +4,7 @@
  *  Created on: 19.12.2022
  *      Author: MikroE
  *      https://www.mikroe.com/7x10-r-click
+ *
  */
 
 #include "c7x10r_font.h"
